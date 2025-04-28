@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+deap
+torch
+dash
+dash-bootstrap-components
+dash-daq
+plotly
+dash-extensions
